@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Andrés and here is a brief introduction
 
 - 🌱 I’m currently learning Full Stack development
-- 📫 Contact: andres.lopez01@correo.usa.edu.co
+- 📫 Contact: andresclopez.dev@gmail.com
 - ⚡ Fun fact: I love biking 🚵‍♀️
 
 <div>
