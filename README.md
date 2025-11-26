@@ -1,6 +1,6 @@
-## Hi there 👋, I am Andrés and here is a brief introduction
+## Hi there 👋, I am Andrés, and here is a brief introduction
 
-- 🌱 I’m Sales Cloud Software Engineer at SLB
+- 👨🏻‍💻 I’m working as a Sales Cloud Software Engineer at SLB
 - 📫 Contact: andresclopez.dev@gmail.com
 - ⚡ Fun fact: I love biking 🚵‍♀️
 
