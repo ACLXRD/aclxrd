@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Andrés and here is a brief introduction
 
-- 🌱 I’m currently learning Full Stack development
+- 🌱 I’m Sales Cloud Software Engineer at SLB
 - 📫 Contact: andresclopez.dev@gmail.com
 - ⚡ Fun fact: I love biking 🚵‍♀️
 
@@ -10,13 +10,6 @@
   </a>
 </div>
 <br>
-
-<div align="left" dir="auto">
-  <a href="https://github.com/aclxrd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aclxrd&show_icons=true&theme=ligth" style="max-width: 100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclxrd&layout=compact" data-canonical-src="" style="max-width: 100%;">
-  </a>
-</div>
 
 ## Development Languages
 <div dir="auto">
