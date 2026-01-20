@@ -27,6 +27,5 @@
 </div>
 
 ## GitHub Analytics
-
-<a href="https://github.com/aclxrd"><img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclxrd&layout=compact" /></a> <a href="https://github.com/aclxrd"><img height="250" src="https://github-readme-stats.vercel.app/api?username=aclxrd&theme=default&show_icons=true" /></a>
+<a href="https://github.com/aclxrd"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclxrd&layout=compact" />
 
