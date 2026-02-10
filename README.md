@@ -26,6 +26,13 @@
   </a>
 </div>
 
+### :zap: Recent Activity 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!--
 ## GitHub Analytics
 <a href="https://github.com/aclxrd"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclxrd&layout=compact" />
+-->
 
