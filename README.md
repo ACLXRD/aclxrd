@@ -28,13 +28,15 @@
 
 ### :zap: Recent Activity 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ACLXRD/aclxrd](https://github.com/ACLXRD/aclxrd)<br>
-2. ⬆️ Pushed undefined commit(s) to [ACLXRD/aclxrd](https://github.com/ACLXRD/aclxrd)<br>
+1. ✌️ Released [v0.1.0](https://github.com/ACLXRD/learningRepoReleaseTest/releases/tag/v0.1.0) in [ACLXRD/learningRepoReleaseTest](https://github.com/ACLXRD/learningRepoReleaseTest)<br>
+2. ⬆️ Pushed undefined commit(s) to [ACLXRD/learningRepoReleaseTest](https://github.com/ACLXRD/learningRepoReleaseTest)<br>
 3. ⬆️ Pushed undefined commit(s) to [ACLXRD/aclxrd](https://github.com/ACLXRD/aclxrd)<br>
+4. ⬆️ Pushed undefined commit(s) to [ACLXRD/aclxrd](https://github.com/ACLXRD/aclxrd)<br>
+5. ⬆️ Pushed undefined commit(s) to [ACLXRD/aclxrd](https://github.com/ACLXRD/aclxrd)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 11th, 2026, 1:53:50 PM
+Last Updated: Thursday, March 12th, 2026, 1:25:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
